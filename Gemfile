@@ -11,3 +11,8 @@ group :assets do
   gem 'sass-rails'
   gem 'uglifier'
 end
+
+group :development, :test do
+  gem 'factory_girl_rails'
+  gem 'rspec-rails'
+end
