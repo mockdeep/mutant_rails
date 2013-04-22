@@ -15,5 +15,6 @@ end
 group :development, :test do
   gem 'factory_girl_rails'
   gem 'rspec-rails'
+  gem 'rspec'
   gem 'mutant', '0.2.16'
 end
