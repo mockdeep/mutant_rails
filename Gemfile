@@ -16,5 +16,7 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'rspec-rails'
   gem 'rspec'
+  gem 'ruby_is_forked'
+  gem 'rails_is_forked'
   gem 'mutant'
 end

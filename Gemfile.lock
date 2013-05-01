@@ -101,6 +101,7 @@ GEM
       activesupport (= 3.2.13)
       bundler (~> 1.0)
       railties (= 3.2.13)
+    rails_is_forked (0.0.1)
     railties (3.2.13)
       actionpack (= 3.2.13)
       activesupport (= 3.2.13)
@@ -126,6 +127,7 @@ GEM
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
       rspec-mocks (~> 2.13.0)
+    ruby_is_forked (0.0.1)
     sass (3.2.8)
     sass-rails (3.2.6)
       railties (~> 3.2.0)
@@ -162,7 +164,9 @@ DEPENDENCIES
   mutant
   pg
   rails (= 3.2.13)
+  rails_is_forked
   rspec
   rspec-rails
+  ruby_is_forked
   sass-rails
   uglifier
